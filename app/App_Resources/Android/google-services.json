@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997956279925",
+    "firebase_url": "https://revi-1.firebaseio.com",
+    "project_id": "revi-1",
+    "storage_bucket": "revi-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997956279925:android:429da321f04af999",
+        "android_client_info": {
+          "package_name": "io.reviloution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997956279925-hdb3ljaev3j7hdj8blrtu33v9uir74tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOFJcXCiRzhF39UhP-pIi2TPoiq32sQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
